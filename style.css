@@ -1,0 +1,35 @@
+.ライト{
+	background-image:url("img/light.png");
+	width:190px;
+	height:460px;
+	margin:auto;
+}
+h1{
+	text-align:center;
+}
+.krasnuy{
+	background-image:url("img/red.png");
+	width:100px;
+	height:100px;
+	position:absolute;
+	left:46.3%;
+	top:18.1%;
+	
+}
+.sholtuy{
+	background-image:url("img/yellow.png");
+	width:100px;
+	height:100px;
+	position:absolute;
+left:46.3%;
+	top:37.1%;
+
+}
+.sinyu{
+	background-image:url("img/blue.png");
+	width:100px;
+	height:100px;
+	position:absolute;
+left:46.3%;
+	top:55.3%;
+}
